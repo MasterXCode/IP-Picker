@@ -1,7 +1,7 @@
 import socket 
 import sys
 import os
-os.system (" clear && cowthink -f dragon 'Welcome To IP-Picker ' ")
+os.system (" clear && cowthink -f dragon 'Welcome To IP-Picker ' | lolcat ")
 import os 
 os.system ("echo''")
 print ( 'Coded By MASTERX ')
